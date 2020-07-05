@@ -1,0 +1,296 @@
+.logo{
+	float:left;
+	width:150px;
+	height:150px;
+	border:2em;
+	border-radius:100%;
+	border-color: black;
+}
+
+.imageF{
+	height:300px;
+	width:300px;
+	border-radius:50%;
+	padding-left:10%;
+
+}
+#head{
+	background-color:0fabbc;
+	color:yellow;
+	padding-top:10px;
+	height: 150px;
+	text-align: left;
+	font-family:'Gotham Black', sans-serif;
+	font-size:2rem;
+	border:.5em solid;
+	border-color: e8ead3;
+}
+
+.imageA{
+	width: 800px;
+	height:300px;
+}
+
+.C1{
+	height:300px;
+	width:350px;
+
+}
+
+.C2{
+	height:300px;
+	width:350px;
+}
+
+.C3{
+	height:300px;
+	width:350px;
+}
+.E1{
+	height:300px;
+	width:350px;
+}
+
+.E2{
+	height:300px;
+	width:350px;
+}
+
+.E3{
+	height:300px;
+	width:350px;
+}
+
+.F1{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	padding-bottom:50px;
+}
+
+.F2{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	padding-bottom:50px;
+}
+
+.F3{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	padding-bottom:50px;
+}
+.F4{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	padding-bottom:50px;
+}
+.F5{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	padding-bottom:50px;
+}
+.F6{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	padding-bottom:50px;
+}
+
+
+.main-right{
+	float: right;
+	width:600px;
+	height: 150px;
+	padding-right:70px;
+}
+
+.images{
+	padding-bottom:50px;
+	width:350px;
+	height:300px;
+
+}
+.AAA{
+	text-align:center;
+	background-color:12cad6;
+	color:black;
+	font: "cursive", "fantasy", "monospace";
+}
+
+.ZZZ{
+	background-color: ffa931;
+}
+
+.BBB{
+	color:black;
+}
+
+.CCC{
+	height:460px;
+	background-color: ffa931;
+}
+
+.DDD{
+	background-color:12cad6;
+	padding-bottom:50px;
+}
+
+.EEE{
+	color:black;
+}
+
+.FFF{
+	height:600px;
+	background-color: ffa931;
+}
+
+.GGG{
+	height:800px;
+	background-color:12cad6;
+}
+
+.HHH{
+	font-size:1rem;
+	background-color: e0dede;
+	color:black;
+}
+.Main{
+	text-align: center;
+	color:white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-weight:bold;
+	font-size:1.5em;
+
+}
+.button1{
+  background-color:black;
+  height:50px;
+  width:200px;
+  color:yellow;
+  border-radius:10%;
+}
+.button1{
+  font-size:20px;
+  background-color:black;
+  height:50px;
+  width:200px;
+  color:yellow;
+  border-radius:10%;
+}
+
+.button4{
+  font-size:1.3rem;
+  font-style:bold;
+  position:absolute;
+  top:3680px;
+  right:530px;
+  float:right;
+  background-color:black;
+  height:60px;
+  width:250px;
+  color:yellow;
+  border-radius:10%;
+}
+.button5{
+  position:absolute;
+  top:4510px;
+  right:530px;
+  background-color:black;
+  height:45px;
+  width:300px;
+  color:yellow;
+  border-radius:10%;
+}
+
+
+
+
+
+/* Navbar container */
+.navbar{
+  overflow: hidden;
+  background-color:ffa931;
+  font-family: Arial;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.Minion{
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 20px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; 
+  margin: 0; 
+}
+
+/* Add a grey background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: 99b898;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color:99b898 ;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.Footer{
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;	
+  word-spacing: 50px;
+}
+
+a{
+	height:50px;
+	border-radius:50%;
+	font-size:50px;
+}
